@@ -36,7 +36,7 @@ Material:
     - _ColorShift: 0
     - _Contrast: 1
     - _DitherStrength: 0.003
-    - _Iterations: 221
+    - _Iterations: 106
     - _MotionAmplitude: 0.3
     - _OffsetX: 0
     - _OffsetY: 0
@@ -46,9 +46,9 @@ Material:
     - _SpeedXX: 0.02
     - _SpeedXY: 0.015
     - _TimeScale: 0.5
-    - _Zoom: 10.307359
+    - _Zoom: 0.119499765
     m_Colors:
-    - _Center: {r: -1.3452985, g: 0.0027299896, b: 0, a: 0}
+    - _Center: {r: -11.880946, g: 0.9266826, b: 0, a: 0}
     - _Color1: {r: 0, g: 0, b: 0, a: 1}
     - _Color2: {r: 1, g: 0, b: 0, a: 1}
     - _Color3: {r: 0, g: 0, b: 0, a: 1}

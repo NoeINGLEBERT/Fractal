@@ -96,7 +96,7 @@ public class FractalExplorer : MonoBehaviour
     #endregion
 
     #region Shader & Fractal Mapping
-    Vector2 ScreenToFractal(Vector2 uv, float currentZoom)
+    public Vector2 ScreenToFractal(Vector2 uv, float currentZoom)
     {
         float aspect = (float)Screen.width / Screen.height;
         Vector2 pos = new Vector2(
