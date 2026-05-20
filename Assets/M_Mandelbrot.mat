@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: M_Mandelbrot
+  m_Shader: {fileID: 4800000, guid: d7aea9c09d1344648b0c8befe05204e8, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Ints: []
+    m_Floats:
+    - _Amplitude: 0.3
+    - _Brightness: 1
+    - _Coef: 1
+    - _CoefX: 1
+    - _CoefXX: 1
+    - _CoefXY: 1
+    - _CoefY: 1
+    - _CoefYY: 1
+    - _ColorShift: 0
+    - _Contrast: 1
+    - _DitherStrength: 0.003
+    - _Iterations: 221
+    - _MotionAmplitude: 0.3
+    - _OffsetX: 0
+    - _OffsetY: 0
+    - _PaletteScale: 4
+    - _PaletteShift: 0
+    - _Power: 2
+    - _SpeedXX: 0.02
+    - _SpeedXY: 0.015
+    - _TimeScale: 0.5
+    - _Zoom: 10.307359
+    m_Colors:
+    - _Center: {r: -1.3452985, g: 0.0027299896, b: 0, a: 0}
+    - _Color1: {r: 0, g: 0, b: 0, a: 1}
+    - _Color2: {r: 1, g: 0, b: 0, a: 1}
+    - _Color3: {r: 0, g: 0, b: 0, a: 1}
+    - _Color4: {r: 0.5, g: 0, b: 0, a: 1}
+    - _ColorA: {r: 0.049999982, g: 0.049999982, b: 0.09999997, a: 1}
+    - _ColorB: {r: 0.19999996, g: 0.39999998, b: 0.8, a: 1}
+    - _ColorC: {r: 1, g: 0.7, b: 0.19999996, a: 1}
+    - _ColorD: {r: 1, g: 1, b: 1, a: 1}
+    - _InsideColor: {r: 0, g: 0, b: 0, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
